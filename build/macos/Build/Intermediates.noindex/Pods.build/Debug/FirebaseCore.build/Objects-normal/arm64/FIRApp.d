@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRApp.m \
+  /Users/ganzorig/Code/my_portfolio/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRAnalyticsConfiguration.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRBundleUtil.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRComponentContainerInternal.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRConfigurationInternal.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/FIRFirebaseUserAgent.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIRLogger.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/ganzorig/Code/my_portfolio/build/macos/Build/Intermediates.noindex/Pods.build/Debug/GoogleUtilities.build/module.modulemap \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/ganzorig/Code/my_portfolio/macos/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h

@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "976e7b011935b69ba628f002f370ad443edf6abbb31494e00fc98a21dddaad9d"
+build_start_time: [1699057122, 302314996]
+build_end_time: [1699057128, 278346061]
+inputs:
+  "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift": [1699057111, 161607265]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1699057111, 162368297]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1699057111, 162704467]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1699057111, 162928581]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1699057111, 163107872]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1699057111, 163516998]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1699057111, 161852359]
+  "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1699057111, 161375522]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1699057111, 163717746]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1699057111, 163329601]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1699057111, 162113189]
+  ? "/Users/ganzorig/Code/my_portfolio/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1699057111, 162520885]

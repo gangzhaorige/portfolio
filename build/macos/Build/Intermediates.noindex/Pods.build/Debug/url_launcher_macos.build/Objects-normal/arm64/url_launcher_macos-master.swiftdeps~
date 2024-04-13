@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "271ca831d2b8bdaa20a7ec3c3327407f00dade9d1e2a4bc4a611195e08a7ebc2"
+build_start_time: [1699057120, 718587875]
+build_end_time: [1699057120, 743743896]
+inputs:
+  "/Users/ganzorig/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.7/macos/Classes/UrlLauncherPlugin.swift": !private [1697591821, 338195323]
+  "/Users/ganzorig/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.7/macos/Classes/messages.g.swift": !private [1697591821, 337897777]
